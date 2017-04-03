@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.redhat.myfissandbox2</groupId>
-  <artifactId>myfissandbox2</artifactId>
+  <groupId>com.redhat.myfissandbox</groupId>
+  <artifactId>myfissandbox</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
